@@ -1,3 +1,14 @@
+distro-info-data (0.43ubuntu1.16) focal; urgency=medium
+
+  [ Jeremy Bícha ]
+  * debian.csv: Fix EOL date for 2.2
+
+  [ Benjamin Drung ]
+  * Add Ubuntu 24.10 "Oracular Oriole" (LP: #2064136)
+  * Update year in debian/copyright
+
+ -- Benjamin Drung <bdrung@ubuntu.com>  Tue, 30 Apr 2024 14:19:11 +0200
+
 distro-info-data (0.43ubuntu1.15) focal; urgency=medium
 
   * Add animal name to Ubuntu 24.04 LTS Noble Numbat (LP: #2041662)
