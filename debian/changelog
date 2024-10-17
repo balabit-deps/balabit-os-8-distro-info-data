@@ -1,3 +1,9 @@
+distro-info-data (0.43ubuntu1.17) focal; urgency=medium
+
+  * Add Ubuntu 25.04 Plucky Puffin (LP: #2084572)
+
+ -- Benjamin Drung <bdrung@ubuntu.com>  Thu, 17 Oct 2024 12:48:27 +0200
+
 distro-info-data (0.43ubuntu1.16) focal; urgency=medium
 
   [ Jeremy Bícha ]
