@@ -1,3 +1,10 @@
+distro-info-data (0.43ubuntu1.18) focal; urgency=medium
+
+  * Add Ubuntu 25.10 "Questing Quokka" (LP: #2107391)
+  * Add Debian 15 "Duke"
+
+ -- Benjamin Drung <bdrung@ubuntu.com>  Wed, 23 Apr 2025 12:03:33 +0200
+
 distro-info-data (0.43ubuntu1.17) focal; urgency=medium
 
   * Add Ubuntu 25.04 Plucky Puffin (LP: #2084572)
